@@ -11,3 +11,6 @@ If you don't have Python2.7 already installed please click [here](https://www.py
 - Now open entertainment_center.py in IDLE and run the file.
 - Website would open in the browser automatically. If it does not open then a file named fresh_tomatoes.html has been generated in the same folder as other files.
 - Open fresh_tomatoes.html in the browser.
+
+##Reference##
+The starter code is referenced from [this] (https://snehal1791.github.io/movie-trailer/ "Starter Code").
